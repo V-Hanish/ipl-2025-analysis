@@ -15,10 +15,10 @@ The dataset contains key statistics for each batter:
 ---
 
 ## Tools & Libraries Used
-- **Python**  
-- **Pandas** & **NumPy** for data manipulation  
-- **Matplotlib** & **Seaborn** for visualizations  
-- **Jupyter Notebook** for development and presentation
+- Python  
+- Pandas & NumPy for data manipulation  
+- Matplotlib & Seaborn for visualizations  
+- Jupyter Notebook for development and presentation
 
 ---
 
