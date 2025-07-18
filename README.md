@@ -1,10 +1,10 @@
-## 🏏 IPL 2025 Batters Performance Analysis
+## IPL 2025 Batters Performance Analysis
 
 This project presents an in-depth analysis of IPL 2025 batters using Python and Jupyter Notebook. The goal is to extract actionable insights that can assist with IPL fantasy league strategies and evaluate player performance effectively.
 
 ---
 
-## 📊 Dataset Description
+## Dataset Description
 
 The dataset contains key statistics for each batter:
 - Player Name, Team  
@@ -14,7 +14,7 @@ The dataset contains key statistics for each batter:
 
 ---
 
-## ⚙️ Tools & Libraries Used
+## Tools & Libraries Used
 - **Python**  
 - **Pandas** & **NumPy** for data manipulation  
 - **Matplotlib** & **Seaborn** for visualizations  
@@ -22,7 +22,7 @@ The dataset contains key statistics for each batter:
 
 ---
 
-## 🔍 Key Analysis Highlights
+## Key Analysis Highlights
 - Total and average runs scored by each player  
 - Players with top strike rates and averages  
 - Most consistent performers by innings and matches  
@@ -31,14 +31,13 @@ The dataset contains key statistics for each batter:
 
 ---
 
-## 📈 Sample Insights
+## Sample Insights
 - Which player hit the most 6s?  
 - Who maintained the best average across the season?  
 - Which team has the most consistent top-order batters?
 
 ---
-
-## 🚀 Getting Started
-To run this project locally:
-
-1. Clone the repository:
+## How to Use
+- Clone the repo or download the notebook
+- Open it with Jupyter Notebook
+- Run cells step by step to explore and modify the analysis
