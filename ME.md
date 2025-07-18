@@ -6,7 +6,7 @@ Perfect for:
 ---
 
 ##  Repository Link
-[GitHub Repo](https://github.com/V-Hanish/ipl-2025-analysis)
+GetHub:[GitHub Repo](https://github.com/V-Hanish/ipl-2025-analysis)
 
 ---
 
